@@ -37,3 +37,4 @@ ENTRYPOINT ["java","-jar","spring-boot-3-todo-application.jar"]
 # COPY --from=build /app/target/spring-boot-3-todo-application-0.0.1-SNAPSHOT.jar spring-boot-3-todo-application.jar
 # EXPOSE 8080
 # ENTRYPOINT ["java","-jar","spring-boot-3-todo-application.jar"]
+
